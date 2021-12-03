@@ -1,0 +1,19 @@
+{
+  "name": "componente10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EritsonJulioZ/componente_practico_sesion_10.git"
+  },
+  "author": "Eritson Julio Zarza+",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EritsonJulioZ/componente_practico_sesion_10/issues"
+  },
+  "homepage": "https://github.com/EritsonJulioZ/componente_practico_sesion_10#readme"
+}
